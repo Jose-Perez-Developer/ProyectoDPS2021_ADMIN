@@ -1,11 +1,51 @@
-# Sample Snack app
+<h1>ProyectoDPS2021 📱🖥️💻</h1>
+<b>Desarrollo de aplicación para registro de becarios como parte del Proyecto de Catedra para la materia Desarrollo de Software Multiplataforma</b>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<h1>Herramientas 🛠️ </h1>
+<p>Listado de Herramientas con las que se trabajará durante el proyecto</p>
+<ul>
+  <li>Visual Code</li>
+  <li>Mongo Compass</li>
+  <li>Postman</li>
+  <li>Git</li>
+  <li>NPM</li>
+  <li>Android Studio</li>
+  <li>StarUML</li>
+  <li>Heroku (Deployment)</li>
+  <li>Balsamiq Wireframes</li>
+  <li>Snack Expo</li>
+  <li>Talend API Tester</li>
+</ul>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+<h1>Creadores ✒️</h1>
+<p>Integrantes del equipo de desarrollo, estudiantes de la carrera de ingeniería en computación de la Universidad Don Bosco, El Salvador</p>
+<ul>
+  <li>Brayan Gerardo Gamez Ramírez  - Grupo Teórico: <b>01T</b></li>
+  <li>David Enrique Moya Aguilar    - Grupo Teórico: <b>01T</b></li>
+  <li>José Miguel Pérez Quintanilla - Grupo Teórico: <b>01T</b></li>
+</ul>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+<h1>Licencia Creative-Commons 📃🔐</h1>
+<p>Se utilizará la licencia Atribución-No Comercial-Compartir Igual <b>(CC BY-NC-SA 4.0)</b> Con esta licencia se obtienen las siguiente condiciones:</p>
+  <ol>
+    <li>El beneficiario de la licencia tiene derecho a poder copiar, distribuir, exhibir y representar la obra en cuestión y hacer derivadas de esta siempre y cuando se reconozca y se cite la obra de la forma especificada por el autor.</li>
+    <li>No se podrá utilizar para fines comerciales.</li>
+    <li>Se puede distribuir obras derivadas bajo una licencia idéntica a la licencia que regula la original.</li>
+  </ol>
+  
+<h1>Presentación de Proyecto - Primer Avance 📂</h1>
+<p>Primer Avance de Proyecto [PDF] <b>Visitar en</b> https://drive.google.com/file/d/10CMMi6z7IHpbYLddHGY9u2A45O8WJHYa/view?usp=sharing</p>
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+<h1>Vídeo explicativo - Segundo Avance 📹</h1>
+<p>Enlace a vídeo de segundo avance - <b>Visualizar:</b> https://www.youtube.com/watch?v=-4S_k7FRCvE </p>
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<h1>Enlaces de interés ⛓️</h1>
+<ul>
+  <li>Tablero de proyecto [Trello] <b>Visitar en</b> https://trello.com/b/RBIj1zL2/proyecto </li>
+  <li>Mockups de Proyecto [PDF] <b>Visitar en</b> https://drive.google.com/file/d/1pZTiZRIL5FHwGr9DGefXo5vMBLeyMefj/view?usp=sharing </li>
+  <li>Documentación de API (Desarrollada con nodeJS y Express) <b>Visitar en</b> https://documenter.getpostman.com/view/13637029/UV5RnfwR</li>
+  <li>Enlace a API <b>Visitar en</b> https://rest-server-dps-api.herokuapp.com/ </li>
+  <li>Manual Técnico [Cloud] <b>Visitar en</b> https://drive.google.com/file/d/1UOYYWk7kDLa1MaMJF9oFhRaMMyxwoJ1b/view?usp=sharing </li>
+  <li>Manual de Usuario [Cloud] <b>Visitar en</b> https://drive.google.com/file/d/1a_QmCR7O9YRnD_d1ZJx4j0f1MjDxUaaV/view?usp=sharing </li>
+  <li>Github de creación de la API <b>Visitar en</b> https://github.com/BrayanGamez/Interns_projects_backend</li>
+</ul>
